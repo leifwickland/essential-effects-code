@@ -4,3 +4,6 @@
 .metals
 metals.sbt
 **/target
+*.iml
+.idea
+.bsp
